@@ -1,0 +1,20 @@
+Package: statgarten
+Title: Easily Install and Load the 'statgarten'
+Version: 0.0.1
+Authors@R: 
+    person("Jinhwan", "Kim", , "hwanistic@gmail.com", role = c("aut", "cre"))
+Description: The 'statgarten' is a set of packages that designed to data analysis
+    This package is designed to make it easy to install and load multiple
+    'statgarten' packages in a single step. Learn more about the'statgarten' at <https://github.com/statgarten>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+URL: https://github.com/statgarten
+BugReports: https://github.com/statgarten/statgarten/issues
+Remotes:
+  statgarten/door
+  statgarten/board
+  statgarten/stove
+  statgarten/scissor
+  statgarten/datatoys
+RoxygenNote: 7.2.1

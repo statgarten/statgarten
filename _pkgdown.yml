@@ -2,7 +2,8 @@ url: http://www.statgarten.com/statgarten/
 template:
   bootstrap: 5
   bootswatch: flatly
-
+development:
+  mode: auto
 navbar:
   components:
     welcome:

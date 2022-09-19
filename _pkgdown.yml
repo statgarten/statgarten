@@ -1,0 +1,53 @@
+url: http://www.statgarten.com/statgarten/
+template:
+  bootstrap: 5
+  bootswatch: flatly
+
+navbar:
+  components:
+    welcome:
+      text: "⛳ Project"
+      menu:
+        - text: "What is statgarten?"
+          href: articles/welcome/project.html
+    usage:
+      text: "🔍 Usecase"
+      menu:
+        - text: "CASE A"
+          href: articles/usage/caseA.html
+        - text: "CASE B"
+          href: articles/usage/caseB.html
+    extra:
+      text: "⭐Extra"
+      menu:
+        - text: "jsmodule"
+          href: articles/extra/jsmodule.html
+    packages:
+      text: "📦 Packages"
+      menu:
+        - text: "🏡 statgarten"
+          href: articles/packages/statgarten.html
+        - text: "🧸 datatoys"
+          href: articles/packages/datatoys.html
+        - text: "🚪 door"
+          href: articles/packages/door.html
+        - text: "✂️ scissor"
+          href: articles/packages/scissor.html
+        - text: "🖍️	crayon"
+          href: articles/packages/crayon.html
+        - text: "📋 board"
+          href: articles/packages/board.html
+        - text: "🎛 stove"
+          href: articles/packages/stove.html
+
+
+  structure:
+    left: [welcome, packages, usage, extra, reference]
+    right: [github]
+footer:
+  structure:
+    left: developed_by
+    right: built_with
+home:
+  title: Welcome to statgarten
+  description: Easy to use data analysis toolkit.

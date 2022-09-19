@@ -1,6 +1,6 @@
 Package: statgarten
 Title: Easily Install and Load the 'statgarten'
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: 
     person("Jinhwan", "Kim", , "hwanistic@gmail.com", role = c("aut", "cre"))
 Description: The 'statgarten' is a set of packages that designed to data analysis
@@ -9,7 +9,8 @@ Description: The 'statgarten' is a set of packages that designed to data analysi
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/statgarten
+URL: https://github.com/statgarten,
+    http://www.statgarten.com/statgarten/
 BugReports: https://github.com/statgarten/statgarten/issues
 Imports:
   door,
@@ -24,3 +25,7 @@ Remotes:
   github::statgarten/scissor,
   github::statgarten/datatoys
 RoxygenNote: 7.2.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

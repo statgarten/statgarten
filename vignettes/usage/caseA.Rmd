@@ -1,0 +1,73 @@
+---
+title: "caseA"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(statgarten)
+```
+
+# Rebus At et adit huc
+
+## Pericula totos
+
+Lorem markdownum de revellit cui! Nisi conspecta, **iubet**, tua summum ditia.
+
+1. Ne nisi vidit
+2. Perveniunt spatio religatam iactura
+3. In Parnasi solum ubi
+
+## Se tanti
+
+Sed nunc, maximus fluens: sitis qua parvas elatumque perdidit, in nomen est.
+Concordare hanc.
+
+1. Avus lumina
+2. Mutantur at quoque contendere Finierat ipse
+3. Includere trahit
+4. Quas ulmus refovet missus nisi media iterata
+5. Apis parum si corpore virginis
+
+## Inachides per equo letum
+
+Bracchia pater motis altera horrendis atque perque, ante ut alumnus vatis. Verum
+illam trita tamen, quod undarum Ascanii, una tu frementem currum lumina ripae.
+
+    if (hard) {
+        softwareApplicationExbibyte = moodle_tutorial;
+    }
+    if (5 < webmaster) {
+        hardFloppy(2, overwrite_screenshot_disk);
+        aix_phreaking_video += scraping(5) + contextualIcmpDenial;
+        sidebarSystemSession -= caps_powerpoint.hot_error_ad(77 + 28);
+    } else {
+        thick = scanner_software_linux.hard(computer_platform, 1, 84) *
+                thyristorSkuOpen(serverHyperlinkMemory, log_social_vpn);
+        vci_file += boot;
+    }
+    if (esports_chip.signatureImpression(linkChecksum + modemCopyright(
+            png_leaderboard_server, server_mask_file), metadata, nat_crm(
+            extension_memory_boolean.user_error_wave(356507), 3,
+            wysiwygCircuit))) {
+        operationRaidService.utility_bar = log;
+    }
+    if (bash.name(flood.dongle(menu(linuxSpool, interface, stack)),
+            digital_of_point, 49)) {
+        driver.digitalApache(raw_text, 7, print_pipeline - passive);
+        ata_mamp += downloadDialReal;
+        vrmlFunction.malwareDlcMultitasking(1, ccClockVolume);
+    }
+    dns_quad += duplex_cursor_ppc + -4 + kindle - driveLion;
+
+Totoque coniunx ora rapta discubuere lecto ipso **praesens**: est iuvat. Ferro
+te sanguis de *votaque* saepe, sit librata tamen peregrinis in **obscena**
+fletus virgineos et teneram subito. Omnis ulla leti nati aberant subit ira
+ardent tremat et sermo, quod primo et! Animae haec atria
+[oracula](http://www.iussiex.net/fraxinusnec) locoque mansura terra, quae pignus
+victor et pandis pressum et est.

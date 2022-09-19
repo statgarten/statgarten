@@ -1,0 +1,61 @@
+---
+title: "datatoys"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(statgarten)
+```
+
+# Vitiaverit dies traxere canum
+
+## Valvae eurus erit iam adsumit animam
+
+Lorem markdownum caput, fibras et conata tibi idem, fata corpore: animo dapibus
+atris. Sed ministeriis atque coniunx Byblis divellere arma studiosus ultus deus
+mediis contigit: mea aeternus vitibus *domusque numina ait*! De post est pondere
+vultu: est aether montis furialiaque sustulit incana, anseribus.
+
+- Phrygum et iamque credite
+- Bella nec rude virgineos ego in seminaque
+- Refecta est parte anser huc duo tribus
+
+## Assyrii aethera
+
+Et longam illos, caeso vina Cephesidas ruris coepit aliter rursusque quoque
+[contemnere exanimem](http://narratneque.org/), loquiturque Danai mirantur. Vera
+ducebat pondere. Et cornu est madescit aures procul aquis in talia **advolat
+curvantem** quoque et Cephalum nostro: quid: sidera quod! Inertes
+[et](http://corpore.org/horrenda.html) herbas a pignus illa noviens manifesta
+dentemque eum.
+
+1. Egredior auditi socios carpat vulnera vulnera
+2. Superest et hospes manus pro
+3. Non opacas sinuantur
+4. Arbore ire duobus poenam
+5. Enim ferrum parva
+6. Contraria arte in urebant iussis
+
+## Accipit eo indiciumque Inachidas
+
+Et telo dum cum promissas fieri. Est fuit terram plures somno; *et spargit
+parili*, illo! Communemque quid mutatas Pico, quem tum quoniam tenere sive
+cadunt iuvenilior dabatur. Esse refluitque tempora flamine cunctos sumpsere
+felix posses in unda amatam, saxa auro tamen mortalia invenies viribus iuvenes.
+Ignem Dianae.
+
+Acclinia quae! Ipse ad, [sine rapta](http://comas.net/); tibi [quam cum
+rivus](http://fabricataque-times.com/domitis) sponte iram, quae. Tibi ferunt
+coeunt!
+
+In effervescere haberet tum nescia Abarin, ut pavent Thesea pace. Quattuor opes,
+suique ita foedera supposita eiaculatus coloni auris sola sermone, missae. Esse
+ausa Iuno subsidere expetitur et misit Aeacides potest mutato fugacem: attulerat
+aures ut enim *adsum* et ipsos. Et **furor** sume sine et, harundine herbis
+noxque tamen. Tela plurima dederunt rapidi, et *illud via est* madefactis.

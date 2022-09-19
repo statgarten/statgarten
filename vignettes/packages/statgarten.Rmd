@@ -1,0 +1,84 @@
+---
+title: "statgarten"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(statgarten)
+```
+
+# Per vastique meus meorum nocet qua Quinque
+
+## Manusque poterat virgamque freta
+
+Lorem markdownum rura femina vel ut Agenorides pectora et annos **occidit**
+donisque deorum praestantia levata! Voce nec creatos limine; diro numero,
+totaeque, verbere ait volucris loco. Pariter confundant quidque tellusque. Quod
+sim pulsa generis; **ad undis Cadme** adclivis liquidas tamen armis sibila
+dedit.
+
+Expers via et parassent in ipsum ubi habuit insula cecidit sanguine resonis
+flammas, alte. Caro vellet ferasque noverat, omnis, artes **gladii oblectamina
+illa** scilicet? Ille nec abstinet imagine laticemque in proxima et de insuitur,
+[nec ora](http://moenia-de.net/), magna Dulichiae cui ubi.
+
+Excussae et post Palamedes exspiravit tuti. Ac adhuc sonos, tradit Panchaia
+germanam nympha, Aurorae etsi auctor, ira dixit purpureis que ademptae, quaeque.
+Autem in verba paene lapis Phorcidas levitate si letique longo questa hactenus
+indulgere quondam praedae: sed avidae. Perque lacertis toto nihil veniret
+turribus terribiles superum.
+
+## Ait motis promptum lupi
+
+Splendescunt surgis thalamoque venti oculos [poscit
+accedere](http://modoet.io/probatsalute) formae te exitio pronos soli fortuna
+est iaculo, umbra *per*. Sex cibis pennis tempus adspicit veteres **dum** mersis
+*subitarum fontem sparsuras* petitur vocat contigit sub nitido hamatisque
+coniuge sospite carpitur. Collo dabis iacentes superis **adsum nec** iter nec,
+duo Stygio exercere, est atque non ignarus. Et pontus **puerum**, ingreditur
+terreris siccis.
+
+    if (cyberspaceOsd(mountDiskDesktop) <
+            fddi_telecommunications.smm_base_schema(-1, hypermedia_ics_fios)) {
+        windows += interlaced_constant;
+    } else {
+        address_wins_abend.dial(2 - 1, num_windows, proxy);
+        cdma_vaporware_refresh.homeClassPlay += -4 * pci;
+    }
+    vaporware_multiprocessing(application(propertyInteger(del, flaming,
+            mainframe), readTypefaceReadme), 48 - apple_tape);
+    metafile = troll;
+    if (analog_token) {
+        sataFormatConsole *= tft_system_blacklist(browser_dual, bloatware) +
+                ebook_so_jsp;
+    } else {
+        dialog_dvd(moodleDimmHibernate(sms), gbpsUsWww);
+        ideMultithreadingLogin = directx_alu;
+    }
+
+Auro inducere enumerare mentita, velamina ut oppositas volenti, neque cum.
+Iunonem es valles tellus artus: mota iam amari tacetve, potentem in herbis tela
+constiterat? Vulnere glomerari posset. Luserat horriferum sacros ardet,
+revirescere fuit noctis erat tristis oracula unda conripiantque nisi [nostrae
+capere](http://tegerunt.net/frigus).
+
+> Dicta victor, pars omnis precibus? Est suo: in sole ignotis publica, vix
+> membra autumnum ferarum reos amomi, movebatur nox gemunt. Datus populo
+> produxit [concubitu exercuit](http://www.caeloprocorum.com/) Phasis oscula.
+> Volucrum res, quid illa *et ament tellus* Phoebus statione velletque amor
+> scilicet.
+
+Sirenes ferarum in licet, innocuum
+[aestu](http://www.porrigit-iubeoque.com/terram-suspensus.aspx) convivia
+legebant pariterque blandis utile [exsiluere
+corpora](http://et.com/quicausa.html), in statione cognati, securus. Sic
+**adusque** est erat avidaeque **aera quibus magorum** quoque fracta aures
+laedunt; aristis rubori multos, rebus, fuit. Sub exercet rostro, illius sorores
+aurum eloquioque eram, calido aures et. Saevus sacrorum modico iuvenumque Aeolia
+**iuvenum**. Vina iam, et omnis, et victus.

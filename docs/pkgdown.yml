@@ -1,0 +1,21 @@
+pandoc: '2.18'
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  jsmodule: extra/jsmodule.html
+  how-to-do-stuff: how-to-do-stuff.html
+  board: packages/board.html
+  crayon: packages/crayon.html
+  datatoys: packages/datatoys.html
+  door: packages/door.html
+  scissor: packages/scissor.html
+  statgarten: packages/statgarten.html
+  stove: packages/stove.html
+  caseA: usage/caseA.html
+  caseB: usage/caseB.html
+  project: welcome/project.html
+last_built: 2022-09-19T08:08Z
+urls:
+  reference: http://www.statgarten.com/statgarten/reference
+  article: http://www.statgarten.com/statgarten/articles
+

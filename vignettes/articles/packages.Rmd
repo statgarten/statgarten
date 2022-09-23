@@ -1,0 +1,48 @@
+---
+title: "statgarten packages"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Installation and use
+
+* Install all the packages in the statgarten by running `remotes::install_github("statgarten/statgarten")`.
+
+## Statgarten
+
+The statgarten includes the packages for EASY-data analysis with shiny application (web).
+
+As of statgarten 0.1.0, the following packages are included:
+
+<img src="image/logo_board.png"/>
+
+- `board` is package for Data Profiling
+
+<img src="image/logo_colorpen.png"/>
+
+- `colorpen` is package for Data Visualize
+
+<img src="image/logo_door.png"/>
+
+- `door` is package for Data Analysis. (**Main package**)
+
+<img src="image/logo_scissor.png"/>
+
+- `scissor` is package for Data Transform
+
+<img src="image/logo_soroban.png"/>
+
+- `soroban` is package for Statistical Data Analysis
+
+<img src="image/logo_statgarten.png"/>
+
+- `statgarten` is package for utilizing statgarten packages.
+
+---
+
+For any issue or suggestion, please make issue in [statgarten's github](https://github.com/statgarten/statgarten/issues).

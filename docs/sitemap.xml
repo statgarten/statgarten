@@ -10,10 +10,10 @@
     <loc>http://www.statgarten.com/statgarten/LICENSE.html</loc>
   </url>
   <url>
-    <loc>http://www.statgarten.com/statgarten/articles/extra/jsmodule.html</loc>
+    <loc>http://www.statgarten.com/statgarten/articles/articles/packages.html</loc>
   </url>
   <url>
-    <loc>http://www.statgarten.com/statgarten/articles/how-to-do-stuff.html</loc>
+    <loc>http://www.statgarten.com/statgarten/articles/extra/jsmodule.html</loc>
   </url>
   <url>
     <loc>http://www.statgarten.com/statgarten/articles/index.html</loc>
@@ -38,6 +38,9 @@
   </url>
   <url>
     <loc>http://www.statgarten.com/statgarten/articles/packages/stove.html</loc>
+  </url>
+  <url>
+    <loc>http://www.statgarten.com/statgarten/articles/packages.html</loc>
   </url>
   <url>
     <loc>http://www.statgarten.com/statgarten/articles/usage/caseA.html</loc>

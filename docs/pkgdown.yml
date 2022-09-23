@@ -2,8 +2,8 @@ pandoc: '2.18'
 pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
+  packages: packages.html
   jsmodule: extra/jsmodule.html
-  how-to-do-stuff: how-to-do-stuff.html
   board: packages/board.html
   crayon: packages/crayon.html
   datatoys: packages/datatoys.html
@@ -14,7 +14,7 @@ articles:
   caseA: usage/caseA.html
   caseB: usage/caseB.html
   project: welcome/project.html
-last_built: 2022-09-19T08:08Z
+last_built: 2022-09-23T03:23Z
 urls:
   reference: http://www.statgarten.com/statgarten/reference
   article: http://www.statgarten.com/statgarten/articles

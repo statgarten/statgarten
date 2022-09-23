@@ -26,21 +26,24 @@ navbar:
     packages:
       text: "📦 Packages"
       menu:
+        - text: "Packages"
+          href: articles/packages.html
+        - text: ------
+        - text: "External Link"
         - text: "🏡 statgarten"
-          href: articles/packages/statgarten.html
+          href: https://www.statgarten.com/statgarten/index.html
         - text: "🧸 datatoys"
-          href: articles/packages/datatoys.html
+          href: https://www.statgarten.com/datatoys/index.html
         - text: "🚪 door"
-          href: articles/packages/door.html
+          href: https://www.statgarten.com/door/index.html
         - text: "✂️ scissor"
-          href: articles/packages/scissor.html
-        - text: "🖍️	crayon"
-          href: articles/packages/crayon.html
+          href: https://www.statgarten.com/scissor/index.html
+        - text: "🖍 colorpen"
+          href: https://www.statgarten.com/colorpen/index.html
         - text: "📋 board"
-          href: articles/packages/board.html
+          href: https://www.statgarten.com/board/index.html
         - text: "🎛 stove"
-          href: articles/packages/stove.html
-
+          href: https://www.statgarten.com/stove/index.html
 
   structure:
     left: [welcome, packages, usage, extra, reference]

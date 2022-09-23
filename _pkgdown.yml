@@ -31,19 +31,21 @@ navbar:
         - text: ------
         - text: "External Link"
         - text: "🏡 statgarten"
-          href: https://www.statgarten.com/statgarten/index.html
+          href: https://www.statgarten.com/statgarten/
         - text: "🧸 datatoys"
-          href: https://www.statgarten.com/datatoys/index.html
+          href: https://www.statgarten.com/datatoys/
         - text: "🚪 door"
-          href: https://www.statgarten.com/door/index.html
+          href: https://www.statgarten.com/door/
         - text: "✂️ scissor"
-          href: https://www.statgarten.com/scissor/index.html
+          href: https://www.statgarten.com/scissor/
         - text: "🖍 colorpen"
-          href: https://www.statgarten.com/colorpen/index.html
+          href: https://www.statgarten.com/colorpen/
         - text: "📋 board"
-          href: https://www.statgarten.com/board/index.html
+          href: https://www.statgarten.com/board/
+        - text: "🧮 soroban"
+          href: https://www.statgarten.com/soroban/
         - text: "🎛 stove"
-          href: https://www.statgarten.com/stove/index.html
+          href: https://www.statgarten.com/stove/
 
   structure:
     left: [welcome, packages, usage, extra, reference]

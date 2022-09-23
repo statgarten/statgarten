@@ -21,8 +21,8 @@ navbar:
     extra:
       text: "⭐Extra"
       menu:
-        - text: "jsmodule"
-          href: articles/extra/jsmodule.html
+        - text: "⚕️ jsmodule (Medical Module, External Link)"
+          href: https://jinseob2kim.github.io/jsmodule/
     packages:
       text: "📦 Packages"
       menu:

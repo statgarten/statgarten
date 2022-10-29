@@ -11,18 +11,37 @@ navbar:
       menu:
         - text: "What is statgarten?"
           href: articles/welcome/project.html
+        - text: "🎨 Statgarten Design System"
+          href: https://github.com/statgarten/SGDG/
+          target: _blank
+
     usage:
       text: "🔍 Usecase"
       menu:
-        - text: "CASE A"
-          href: articles/usage/caseA.html
-        - text: "CASE B"
-          href: articles/usage/caseB.html
+        - text: "Analysis using bloodtest dataset of datatoys"
+          href: articles/bloodtest.html
     extra:
       text: "⭐Extra"
       menu:
-        - text: "⚕️ jsmodule (Medical Module, External Link)"
+        - text: "Additional Modules"
+        - text: ------
+        - text: "⚕️ jsmodule (Medical Module)"
           href: https://jinseob2kim.github.io/jsmodule/
+          target: _blank
+        - text: "⚕️ jskm (Kaplan-Meier Module)"
+          href: https://jinseob2kim.github.io/jskm/
+          target: _blank
+        - text: "⚕️ jstable (Regression Table Module)"
+          href: https://jinseob2kim.github.io/jstable/
+          target: _blank
+        - text: ------
+        - text: "🐍 datatoys for python"
+          href: https://github.com/statgarten/datatoys-python
+          target: _blank
+        - text: "🐳 docker with statgarten"
+          href: https://github.com/statgarten/dockerImage
+          target: _blank
+
     packages:
       text: "📦 Packages"
       menu:
@@ -32,20 +51,31 @@ navbar:
         - text: "External Link"
         - text: "🏡 statgarten"
           href: https://www.statgarten.com/statgarten/
+          target: _blank
         - text: "🧸 datatoys"
           href: https://www.statgarten.com/datatoys/
+          target: _blank
         - text: "🚪 door"
           href: https://www.statgarten.com/door/
+          target: _blank
         - text: "✂️ scissor"
           href: https://www.statgarten.com/scissor/
+          target: _blank
         - text: "🖍 colorpen"
           href: https://www.statgarten.com/colorpen/
+          target: _blank
         - text: "📋 board"
           href: https://www.statgarten.com/board/
+          target: _blank
         - text: "🧮 soroban"
           href: https://www.statgarten.com/soroban/
+          target: _blank
         - text: "🎛 stove"
           href: https://www.statgarten.com/stove/
+          target: _blank
+        - text: "🗺 maps"
+          href: https://github.com/statgarten/maps/
+          target: _blank
 
   structure:
     left: [welcome, packages, usage, extra, reference]

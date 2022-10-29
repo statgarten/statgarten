@@ -2,6 +2,7 @@ pandoc: '2.18'
 pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
+  bloodtest: bloodtest.html
   packages: packages.html
   jsmodule: extra/jsmodule.html
   board: packages/board.html
@@ -14,7 +15,7 @@ articles:
   caseA: usage/caseA.html
   caseB: usage/caseB.html
   project: welcome/project.html
-last_built: 2022-09-23T04:33Z
+last_built: 2022-10-29T05:22Z
 urls:
   reference: http://www.statgarten.com/statgarten/reference
   article: http://www.statgarten.com/statgarten/articles

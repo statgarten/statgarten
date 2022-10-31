@@ -13,17 +13,21 @@ URL: https://github.com/statgarten,
     http://www.statgarten.com/statgarten/
 BugReports: https://github.com/statgarten/statgarten/issues
 Imports:
-  door,
   board,
   stove,
   scissor,
-  datatoys
+  datatoys,
+  colorpen,
+  soroban,
+  door
 Remotes:
-  github::statgarten/door,
   github::statgarten/board,
   github::statgarten/stove,
   github::statgarten/scissor,
-  github::statgarten/datatoys
+  github::statgarten/datatoys,
+  github::statgarten/colorpen,
+  github::statgarten/soroban,
+  github::statgarten/door
 RoxygenNote: 7.2.1
 Suggests: 
     knitr,

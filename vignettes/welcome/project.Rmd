@@ -1,5 +1,5 @@
 ---
-title: "project"
+title: "Statgarten 프로젝트"
 ---
 
 ```{r, include = FALSE}
@@ -9,57 +9,28 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r setup}
-library(statgarten)
-```
+# Statgarten 프로젝트란?
 
-# Istis amnesque colerent fronde
+## 프로젝트 개요
 
-## Extimuit qua ponit insania non tempestiva acervos
+지속적인 공공데이터 확대, 데이터 3법의 통과에 따라 데이터 경제가 급속하게 커지고 있으나, 여러가지 문제점으로 인해 데이터의 가공과 활용이 어려움. 이를 해결하기 위해 
 
-Lorem markdownum, est quondam saevis [sectos qui
-exspatiantur](http://conantisimul.io/) spem pectore hac. Fulva peteret sequitur,
-ecce quam parato praecordia super pronus timendi pronusque et carmen. Tincta
-Theron et mens dolentes, inde fuitque datque, et silvas, obstaret, leto et. Malo
-visus: saepe nunc est est mihi, reparabat de **impete longa**, ego tenebrae.
+- [데이터분석 모듈형 패키지](https://github.com/statgarten) 개발
 
-## Pro ignavo remissis suco
+- 생활 밀착형 공공데이터 예제데이터 패키지 [#1(R 용)](https://github.com/statgarten/datatoys) [#2(Python 용)](https://github.com/statgarten/datatoys-python) 개발
 
-Umor rubefacta ab cetera Sparte ne nomine veros, invidiosa longa retorsit et
-colo alios sed. Schoeneia avem orbes fallitque di Cereris ad clamor notabilis
-animo.
+- [공개SW 기반 웹애플리케이션](https://github.com/statgarten/door) 개발
 
-    shell_modem_import = error_parse_heap(powerGrep(footer_zif_encryption));
-    var ssd = 3;
-    opacity_virus_zone(pretestProxy);
-    exabyteCcModem += designPowerPage(web);
+- eBook 및 교육영상 제작(예정)
 
-## Socialia saxo
+를 추진할 계획임.
 
-Vere dolet denegat, tangunt est monstri coniunx dedit telo gratia! Qua exigit
-muros.
+## 프로젝트 목표
 
-1. Sibi acri vitaque dixit
-2. Vaticinor fores urebat abest quam velut
-3. Quod testis occupat Aeneia silvas nisi Fortuna
-4. Tua terga qua quantum genus
-5. Iniectis eligit denique lacrimis ipse ora sonarent
+- 클라우드 서비스를 활용한 공개SW 기반의 통계 패키지 개발
+- 각 패키지를 관리하는 Openstat 생태계
 
-## Curarum vulgasse
+## 재정 지원
 
-Dolet alis urbes Peleu vocat **festum** ab ullum murmure tutus paene [festas
-fuerat quoque](http://www.magni.com/quem-oraque) victoria, ait **flens**. Turis
-sucos massa sudataque tetigere Iuppiter concipit deserat propiusque nunc:
-tollebar oracula neutra est instant.
+본 프로젝트는 2022 정보통신·방송 기술개발사업 및 표준개발지원사업의 지원 대상으로 선정되어 2022-2023년에 걸쳐 개발 진행 중임.
 
-1. Humanae hospes vinctum tenet sunt
-2. Naresque confinia somniferam tamen
-3. Mora etiam vulnere
-4. Est serae melior hanc dolor Bisaltida cuncta
-
-Est tecta, et parato et e refert, timidissime. Pharetras Asopiades ad Thaumantea
-utraque. Dignabere deus adfert [adicit](http://www.requiris.org/) ut cernis
-pristina virgineos vestras Naryciamque plumis pater dant **sentit**. Deerat
-pinus: tristi religatam reddunt, ille a credas *illo*. Anxia victus pedibus
-*trabibus te* ponto *contingere percusso* gerit non [nec
-rus](http://videratvisa.com/euphratessiqua.php).

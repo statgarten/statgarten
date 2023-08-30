@@ -1,5 +1,9 @@
 ---
 title: "statgarten packages"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: false
 ---
 
 ```{r, include = FALSE}
@@ -9,15 +13,15 @@ knitr::opts_chunk$set(
 )
 ```
 
-## Installation and use
+### Installation and use
 
 * Install all the packages in the statgarten by running `remotes::install_github("statgarten/statgarten")`.
 
-## Statgarten
+### Statgarten
 
 The statgarten includes the packages for EASY-data analysis with shiny application (web).
 
-As of statgarten 0.1.0, the following packages are included:
+As of statgarten 0.2.1, the following packages are included:
 
 <img src="image/logo_board.png" width = '150'/>
 
@@ -26,6 +30,10 @@ As of statgarten 0.1.0, the following packages are included:
 <img src="image/logo_colorpen.png" width ='150' />
 
 - `colorpen` is package for Data Visualize
+
+<img src='image/logo_datatoys.png' width = '150'/>
+
+- `datatoys` is package for provide public data
 
 <img src="image/logo_door.png" width = '150'/>
 
@@ -39,13 +47,24 @@ As of statgarten 0.1.0, the following packages are included:
 
 - `soroban` is package for Statistical Data Analysis
 
+<img src='image/logo_stove.png' width ='150'/>
+
+- `stove` is pacakge for Machine Learning
+
 <img src="image/logo_statgarten.png" width = '150'/>
 
-- `statgarten` is package for utilizing statgarten packages.
+- `statgarten` is package for utilizing statgarten packages. (and this page !)
 
 <img src='image/logo_playdoh.png' width = '150'/>
 
+---
+
 - `playdoh` is package for AI Application.
+
+- `maps` is repository for svg, json file for Korean Map data
+
+- `jskm`, `jsmodule`, `jstable` is package for medical research
+
 
 ---
 

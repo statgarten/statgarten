@@ -1,0 +1,17 @@
+---
+title: "statgarten partners"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: false
+---
+
+### Partners
+
+statgarten은 다음 기업들에서 함께 기여하였습니다.
+
+<img src='img/antller.png'  width = '100'/> <!-- Antller -->
+<img src='img/bulkrum.jpeg' width = '100'/> <!-- Bulkrum -->
+<img src='img/phi.png' width = '100'/> <!-- PHI digital healthcare -->
+<img src='img/zarathu.png' width = '100'/> <!-- Zarathu -->
+

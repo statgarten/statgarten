@@ -1,5 +1,9 @@
 ---
-title: "Statgarten 프로젝트"
+title: "statgarten 프로젝트"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: false
 ---
 
 ```{r, include = FALSE}
@@ -10,32 +14,82 @@ knitr::opts_chunk$set(
 library(statgarten)
 ```
 
-# Statgarten 프로젝트란?
+## statgarten 프로젝트란?
 
-## 프로젝트 개요
+### 프로젝트 개요
 
-지속적인 공공데이터 확대, 데이터 3법의 통과에 따라 데이터 경제가 급속하게 커지고 있으나, 여러가지 문제점으로 인해 데이터의 가공과 활용이 어려움. 이를 해결하기 위해 
+지속적인 공공데이터 확대, 데이터 3법의 통과에 따라 데이터 경제가 급속하게 커지고 있으나, 여러가지 문제점으로 인해 데이터의 가공과 활용이 어려움. 
+
+이를 해결하는 것에 도움을 주기 위해 아래 프로젝트들을 진행합니다.
 
 - [데이터분석 모듈형 패키지](https://github.com/statgarten) 개발
 
+<p align='center'>
+  <img src='img/door.png'/ width = '500'>
+</p>
+
 - 생활 밀착형 공공데이터 예제데이터 패키지 [#1(R 용)](https://github.com/statgarten/datatoys) [#2(Python 용)](https://github.com/statgarten/datatoys-python) 개발
 
-- [공개SW 기반 웹애플리케이션](https://github.com/statgarten/door) 개발
+<p align='center'>
+  <img src='img/datatoys.png'width = '500'/>
+</p>
 
-- eBook 및 교육영상 제작(예정)
+- [연구자용 공개SW 기반 웹애플리케이션](https://github.com/statgarten/jsmodule) 개발
 
-를 추진할 계획입니다.
+<p align='center'>
+  <img src='img/jsmodule.png' width = '500'/>
+</p>
 
-## 프로젝트 목표
+- [eBook: 공공데이터 분석 101](https://www.statgarten.com/publicdata101/) 
+
+<p align='center'>
+  <img src='img/ebook.png' width = '500'/>
+</p>
+
+- 활용 영상 제작 (예정)
+
+---
+
+### 프로젝트 목표
 
 - 클라우드 서비스를 활용한 공개SW 기반의 통계 패키지 개발
-- 각 패키지를 관리하는 Openstat 생태계
+- 지속가능한, 데이터 분석 패키지 (statgarten + openstat) 생태계
 
-## 현재 개발된 패키지
-- `r statgarten_packages() `
-- playdoh
+---
 
-## 재정 지원
+### 현재 개발된 패키지
+
+> statgarten
+
+- door (Main application)
+- board (EDA)
+- colorpen (Visualize)
+- scissor (Wrangling)
+- soroban (Statistics)
+- stove (ML)
+- playdoh (AI)
+- dockerImage (docker version)
+
+> References
+
+- datatoys & datatoys-python (public data)
+- maps (map data)
+- public data 101 (ebook)
+
+> System
+
+- SGDG (design system)
+- sgthemes (ggplot theme)
+
+> Research
+
+- jskm (survival analysis)
+- jsmodule (analysis)
+- jstable (tableone)
+
+---
+
+### 재정 지원
 
 본 프로젝트는 2022 정보통신·방송 기술개발사업 및 표준개발지원사업의 지원 대상으로 선정되어 2022-2023년에 걸쳐 개발 진행 중입니다.
 

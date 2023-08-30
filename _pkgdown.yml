@@ -4,6 +4,7 @@ template:
   bootswatch: flatly
 development:
   mode: auto
+toc: false
 navbar:
   components:
     welcome:
@@ -11,17 +12,22 @@ navbar:
       menu:
         - text: "What is statgarten?"
           href: articles/welcome/project.html
+        - text: "🙋 How to Contribute"
+          href: articles/welcome/contribute.html
         - text: "🎨 Statgarten Design System 🔗"
           href: https://github.com/statgarten/SGDG/
           target: _blank
-        - text: "🙋 How to Contribute"
-          href: articles/welcome/contribute.html
+        - text: "🤝🏻 Partners"
+          href: articles/welcome/partner.html
 
     usage:
       text: "🔍 Usecase"
       menu:
         - text: "Analysis using bloodtest dataset of datatoys"
           href: articles/bloodtest.html
+        - text: "Public data 101"
+          href: https://www.statgarten.com/publicdata101/
+          target: _blank
     extra:
       text: "⭐Extra"
       menu:

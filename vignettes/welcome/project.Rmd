@@ -32,7 +32,8 @@ library(statgarten)
 - 각 패키지를 관리하는 Openstat 생태계
 
 ## 현재 개발된 패키지
-`r statgarten_packages() `
+- `r statgarten_packages() `
+- playdoh
 
 ## 재정 지원
 

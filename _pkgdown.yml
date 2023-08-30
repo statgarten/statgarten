@@ -11,7 +11,7 @@ navbar:
       menu:
         - text: "What is statgarten?"
           href: articles/welcome/project.html
-        - text: "🎨 Statgarten Design System"
+        - text: "🎨 Statgarten Design System 🔗"
           href: https://github.com/statgarten/SGDG/
           target: _blank
         - text: "🙋 How to Contribute"
@@ -68,6 +68,9 @@ navbar:
           target: _blank
         - text: "📋 board"
           href: https://www.statgarten.com/board/
+          target: _blank
+        - text: "🍰 playdoh"
+          href: https://github.com/statgarten/playdoh
           target: _blank
         - text: "🧮 soroban"
           href: https://www.statgarten.com/soroban/

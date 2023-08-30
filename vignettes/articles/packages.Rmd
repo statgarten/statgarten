@@ -19,29 +19,33 @@ The statgarten includes the packages for EASY-data analysis with shiny applicati
 
 As of statgarten 0.1.0, the following packages are included:
 
-<img src="image/logo_board.png"/>
+<img src="image/logo_board.png" width = '150'/>
 
 - `board` is package for Data Profiling
 
-<img src="image/logo_colorpen.png"/>
+<img src="image/logo_colorpen.png" width ='150' />
 
 - `colorpen` is package for Data Visualize
 
-<img src="image/logo_door.png"/>
+<img src="image/logo_door.png" width = '150'/>
 
 - `door` is package for Data Analysis. (**Main package**)
 
-<img src="image/logo_scissor.png"/>
+<img src="image/logo_scissor.png" width = '150'/>
 
 - `scissor` is package for Data Transform
 
-<img src="image/logo_soroban.png"/>
+<img src="image/logo_soroban.png" width = '150'/>
 
 - `soroban` is package for Statistical Data Analysis
 
-<img src="image/logo_statgarten.png"/>
+<img src="image/logo_statgarten.png" width = '150'/>
 
 - `statgarten` is package for utilizing statgarten packages.
+
+<img src='image/logo_playdoh.png' width = '150'/>
+
+- `playdoh` is package for AI Application.
 
 ---
 

@@ -56,6 +56,10 @@ To contribute this way, you may follow these steps.
 
 4. Make a `pull request` 
 
+Note, You should comment agreement CLA ([contributor licence agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)) in first PR like below. (Don't worry we will notice you again)
+
+*I have read the CLA Document and I hereby sign the CLA*
+
 Now you're contributor of statgarten 🎉
 
 <img src='img/contribute_process.png'/>

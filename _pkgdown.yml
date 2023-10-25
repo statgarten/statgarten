@@ -28,6 +28,8 @@ navbar:
         - text: "Public data 101"
           href: https://www.statgarten.com/publicdata101/
           target: _blank
+        - text: "Video Tutorial (Korean)"
+          href: articles/tutorial.html
     extra:
       text: "⭐Extra"
       menu:

@@ -42,7 +42,9 @@ Reference: [link](https://www.statgarten.com/publicdata101/%ED%98%B8%EC%84%A0-%E
   <img src="image/tutorial/tutorial2B.png" width="300"/>
 </p>
 
-Video WIP
+<p align = 'center'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOL9ngRtRc8?si=73NgHcQ38qj0q6hB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 ### 3: datatoys to **linechart with Facet**
 

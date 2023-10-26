@@ -64,4 +64,6 @@ Reference: [link](https://www.statgarten.com/publicdata101/%ED%98%B8%EC%84%A0-%E
   <img src="image/tutorial/tutorial4B.png" width="300"/>
 </p>
 
-Video WIP
+<p align = 'center'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/K-wB72VIpNg?si=c8OB0ujyF6Pd1Qez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>

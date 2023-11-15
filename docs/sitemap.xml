@@ -13,6 +13,12 @@
     <loc>http://www.statgarten.com/statgarten/LICENSE.html</loc>
   </url>
   <url>
+    <loc>http://www.statgarten.com/statgarten/articles/addarticle.html</loc>
+  </url>
+  <url>
+    <loc>http://www.statgarten.com/statgarten/articles/articles/addarticle.html</loc>
+  </url>
+  <url>
     <loc>http://www.statgarten.com/statgarten/articles/articles/bloodtest.html</loc>
   </url>
   <url>
@@ -62,6 +68,9 @@
   </url>
   <url>
     <loc>http://www.statgarten.com/statgarten/articles/usage/caseB.html</loc>
+  </url>
+  <url>
+    <loc>http://www.statgarten.com/statgarten/articles/welcome/addarticle.html</loc>
   </url>
   <url>
     <loc>http://www.statgarten.com/statgarten/articles/welcome/contribute.html</loc>

@@ -14,6 +14,8 @@ navbar:
           href: articles/welcome/project.html
         - text: "🙋 How to Contribute"
           href: articles/welcome/contribute.html
+        - text: "✍️ How to add article to pkgdownsite"
+          href: articles/welcome/addarticle.html
         - text: "🎨 Statgarten Design System 🔗"
           href: https://github.com/statgarten/SGDG/
           target: _blank

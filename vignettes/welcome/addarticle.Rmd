@@ -1,0 +1,74 @@
+---
+title: "contribute"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: false
+---
+
+## How to add an article
+
+1.  Make Rmarkdown file (`.rmd`)
+
+Statgarten's articles are written in Rmarkdown. You can make a new Rmarkdown file by clicking `File > New File > Rmarkdown...` in RStudio.
+
+Directory should be like below
+
+```         
+<PACKAGE>/vignettes/articles/<your_article.Rmd>
+```
+
+Also you can customize subdirectory below vignettes. 
+For example in this repository, we use **articles**, **extra**, **packages**, **usage**, **welcome** (structure like navigation)
+
+2.  Write your article
+
+In this article, we don't explain how to write an article in Rmarkdown. see <a href = 'https://rmarkdown.rstudio.com/lesson-1.html' target = "_blank">Rmarkdown</a> for more information.
+
+There isn't strict rule to write an article yet. 
+
+- But, it's recommend to write your article in English. 
+- Use `##` and `---` to separate each paragraph (not `#`) 
+- It's good to use emoji. try <a href = 'https://emojidb.org/' target = "_blank">EmojiDB</a>
+
+After writing article, You can use `rmarkdown::render()` to check your article.
+
+3. Modify `_pkgdown.yml` file
+
+You should add your article's name in `_pkgdown.yml` file. 
+
+below is part of yml file from statgarten's repository (this repository)
+```yml
+navbar:
+  components:
+    welcome:
+      text: "⛳ Project"
+      menu:
+        - text: "What is statgarten?"
+          href: articles/welcome/project.html
+        - text: "🙋 How to Contribute"
+          href: articles/welcome/contribute.html
+        - text: "How to add article to pkgdownsite"
+          href: articles/welcome/addarticle.html
+        - text: "🎨 Statgarten Design System 🔗"
+          href: https://github.com/statgarten/SGDG/
+          target: _blank
+        - text: "🤝🏻 Partners"
+          href: articles/welcome/partner.html
+```
+
+As you can see, there are 2 main concept below `menu` structure: `text`, `href`
+
+`text` is the name of your article (in webpage). `href` is the path of your article.
+
+However, `href` should be `.html` file (which is rendered result of `.rmd` file)
+
+4. Build pkgdown site.
+
+You can use below code:
+
+```r
+pkgdown::build_site()
+```
+
+5. Commit and make a PR to statgarten's repository (or for each package)

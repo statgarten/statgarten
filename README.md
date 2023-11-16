@@ -12,7 +12,9 @@ remotes::github_install("statgarten/statgarten")
 ```
 
 <iframe
-  src="https://statgarten-issues.streamlit.app/?embed=true"
+  src="https://statgarten-issue.streamlit.app/?embed=true"
   height="450"
   style="width:100%;border:none;"
 ></iframe>
+
+

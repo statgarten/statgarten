@@ -3,6 +3,7 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   bloodtest: bloodtest.html
+  openstat: openstat.html
   packages: packages.html
   tutorial: tutorial.html
   jsmodule: extra/jsmodule.html
@@ -19,7 +20,7 @@ articles:
   contribute: welcome/contribute.html
   partner: welcome/partner.html
   project: welcome/project.html
-last_built: 2023-11-15T12:25Z
+last_built: 2023-11-18T03:38Z
 urls:
   reference: http://www.statgarten.com/statgarten/reference
   article: http://www.statgarten.com/statgarten/articles

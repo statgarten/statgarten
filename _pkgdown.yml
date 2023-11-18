@@ -30,8 +30,10 @@ navbar:
         - text: "Public data 101"
           href: https://www.statgarten.com/publicdata101/
           target: _blank
-        - text: "Video Tutorial (Korean)"
+        - text: "Public data 101 Video Tutorial (Korean)"
           href: articles/tutorial.html
+        - text: "⚕️ Medical research with Openstat with Video Tutorial (Korean)"
+          href: articles/openstat.html
     extra:
       text: "⭐Extra"
       menu:

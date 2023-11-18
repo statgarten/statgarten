@@ -1,6 +1,6 @@
 Package: statgarten
 Title: Easily Install and Load the 'statgarten'
-Version: 0.2.3
+Version: 0.2.4
 Authors@R: 
     person("Jinhwan", "Kim", , "hwanistic@gmail.com", role = c("aut", "cre"))
 Description: The 'statgarten' is a set of packages that designed to data analysis

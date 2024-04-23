@@ -8,7 +8,7 @@ You can install statgarten by
 
 ```
 install.packages("remotes")
-remotes::github_install("statgarten/statgarten")
+remotes::install_github("statgarten/statgarten")
 ```
 
 <iframe
